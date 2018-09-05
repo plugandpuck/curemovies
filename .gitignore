@@ -38,6 +38,6 @@ testem.log
 .DS_Store
 Thumbs.db
 .gitignore
-functions/node_modules
+functions/node_modules/*
 node_modules
 .gitignore
