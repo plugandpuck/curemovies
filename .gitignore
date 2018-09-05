@@ -41,3 +41,5 @@ Thumbs.db
 functions/node_modules/*
 node_modules
 .gitignore
+e2e
+dist
